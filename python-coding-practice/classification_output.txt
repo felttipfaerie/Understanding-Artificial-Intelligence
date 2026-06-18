@@ -1,0 +1,53 @@
+Scanned 17 PDF file(s) under: C:\Users\elmak\Desktop\Actions-course -Novideo
+PDF: 1 - Stretch - Actions.pdf -> Stretch & Motion
+PDF: 10 - Polar Stretch - Actions.pdf -> Stretch & Motion
+PDF: 11 Unchained parameters - Actions.pdf -> Parameters & Constraints
+PDF: 12 - Practice Unchained Parameters Part 1 - Actions.pdf -> Parameters & Constraints
+PDF: 13 Practice Unchained Parameters Part 2 - Actions.pdf -> Parameters & Constraints
+PDF: 14 Chained parameters - Actions.pdf -> Parameters & Constraints
+PDF: 15 - Base point - Actions.pdf -> Parameters & Constraints
+PDF: 16 - Practice The Crane - Actions.pdf -> Parameters & Constraints
+PDF: 2 - Rotate - Actions.pdf -> Stretch & Motion
+PDF: 3 - Move - Actions.pdf -> Stretch & Motion
+PDF: 4 - Scale - Actions.pdf -> Stretch & Motion
+PDF: 5 Flip - Actions.pdf -> Stretch & Motion
+PDF: 6 Visibility States- Actions.pdf -> Stretch & Motion
+PDF: 7 - Array- Actions.pdf -> Stretch & Motion
+PDF: 8 - Advanced Stretch - Actions.pdf -> Stretch & Motion
+PDF: 9 - Practice What You’ve Learnt - Actions.pdf -> Practice & Learning
+PDF: S.O.S. Common Issues and Trouble Shooting - Actions.pdf -> Parameters & Constraints
+
+Detected similarity groups (top terms):
+  Stretch & Motion (9 docs)
+    top words: stretch, rotate, flip, linear, polar, using, scale, visibility
+  Practice & Learning (1 docs)
+    top words: stretch, 9, ve, learnt, change, distance, circle, line
+  Parameters & Constraints (7 docs)
+    top words: parameters, unchained, linear, part, solution, flip, stretch, crane
+
+Top 25 TF-IDF terms in the first document:
+ 1. bath                0,04849  ########################################
+ 2. stretch             0,01946  ################
+ 3. unlike              0,01385  ###########
+ 4. compare             0,01046  #########
+ 5. constraints         0,01019  ########
+ 6. length              0,00708  ######
+ 7. dimension           0,00693  ######
+ 8. snaps               0,00693  ######
+ 9. need                0,00693  ######
+10. associative         0,00693  ######
+11. means               0,00693  ######
+12. yet                 0,00693  ######
+13. done                0,00693  ######
+14. editable            0,00693  ######
+15. include             0,00693  ######
+16. plug                0,00693  ######
+17. hole                0,00693  ######
+18. tap                 0,00693  ######
+19. control             0,00693  ######
+20. difference          0,00693  ######
+21. using               0,00622  #####
+22. shown               0,00598  #####
+23. dimensional         0,00523  ####
+24. parametric          0,00523  ####
+25. linear              0,00519  ####
