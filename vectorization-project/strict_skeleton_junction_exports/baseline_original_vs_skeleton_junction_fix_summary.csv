@@ -1,0 +1,3 @@
+method,sample,true_vectors,pred_vectors,vector_count_error,engineering_score,line_geometry_score,total_length_score,junction_angle_score,vector_count_score,true_junctions,pred_junctions,pixel_precision,pixel_recall,pixel_f1,pixel_iou,pixel_accuracy,junction_nodes,traced_paths
+skeleton_junction_fix,39.5,3.05,3.1125,0.1125,0.9558,0.9712,0.9919,0.8893,0.9805,0.8,0.8,0.9817,0.9759,0.9786,0.9637,0.9993,6.675,4.4875
+baseline_original_unchanged,39.5,3.05,3.1,0.075,0.9553,0.9672,0.9923,0.8907,0.9892,0.8,0.7875,0.9788,0.9739,0.9762,0.9625,0.9993,6.6625,4.475

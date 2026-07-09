@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="768" viewBox="0 0 128 128"><rect x="0" y="0" width="128" height="128" fill="white" /><g id="original_vectors" stroke="blue" stroke-width="1" fill="none" stroke-linecap="round"><line x1="42.0" y1="28.0" x2="18.0" y2="67.0" /></g><g id="predicted_vectors" stroke="red" stroke-width="1" fill="none" stroke-linecap="round"><line x1="18.004138946533203" y1="67.00254821777344" x2="41.9958610534668" y2="27.997455596923828" /></g></svg>
