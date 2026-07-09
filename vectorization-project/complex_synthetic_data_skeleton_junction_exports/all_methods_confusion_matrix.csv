@@ -1,0 +1,5 @@
+method,tp,fp,fn,tn
+baseline_on_shared_skeleton,28336,9385,11126,1261873
+cnn_direct_vector_regression_on_shared_skeleton,1971,28224,37491,1243034
+mlp_direct_vector_regression_on_shared_skeleton,1773,27186,37689,1244072
+skeleton_graph_junction_fix_on_shared_skeleton,30050,7712,9412,1263546

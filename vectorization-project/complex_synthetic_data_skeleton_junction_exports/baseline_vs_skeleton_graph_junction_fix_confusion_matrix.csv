@@ -1,0 +1,3 @@
+method,tp,fp,fn,tn
+baseline_on_shared_skeleton,1261394,11777,9577,27972
+skeleton_graph_junction_fix_on_shared_skeleton,1263716,8903,7255,30846

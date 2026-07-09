@@ -1,0 +1,8 @@
+method_display,tp,fp,fn,tn
+Baseline,9512,3251,3915,392922
+Contour-based fitting,4988,4536,8439,391637
+Hough Transform,12026,3412,1401,392761
+Mesh-pattern local,6494,504,6933,395669
+Run-graph vectorisation,10392,2478,3035,393695
+Sparse-pixel RANSAC,11406,4111,2021,392062
+Thinning / skeletonisation,10443,2381,2984,393792

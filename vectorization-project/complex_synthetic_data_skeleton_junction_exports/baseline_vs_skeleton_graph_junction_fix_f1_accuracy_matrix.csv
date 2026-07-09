@@ -1,0 +1,3 @@
+method,tp,fp,fn,tn,mean_precision,mean_recall,mean_f1,mean_accuracy,mean_iou,mean_engineering_score,mean_vector_count_error,global_precision,global_recall,global_f1,global_accuracy,global_iou
+baseline_on_shared_skeleton,1261394,11777,9577,27972,0.9906,0.9924,0.9915,0.9837,0.9833,0.7214,3.6875,0.9907,0.9925,0.9916,0.9837,0.9834
+skeleton_graph_junction_fix_on_shared_skeleton,1263716,8903,7255,30846,0.9929,0.9942,0.9936,0.9877,0.9873,0.7293,4.925,0.993,0.9943,0.9936,0.9877,0.9874
