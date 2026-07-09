@@ -1,0 +1,5 @@
+method,global_precision,global_recall,global_f1,global_accuracy,global_iou,mean_precision,mean_recall,mean_f1,mean_accuracy,mean_iou,mean_engineering_score,mean_vector_count_error,tp,fp,fn,tn
+skeleton_graph_junction_fix_on_shared_skeleton,0.8082,0.7696,0.7884,0.9882,0.6508,0.8402,0.808,0.8227,0.9882,0.7257,0.7317,4.0767,433520,102857,129808,18994615
+baseline_on_shared_skeleton,0.7683,0.7258,0.7465,0.9859,0.5955,0.8125,0.7795,0.7948,0.9859,0.6902,0.7261,2.8342,408886,123287,154442,18974185
+mlp_direct_vector_regression_on_shared_skeleton,0.0703,0.0598,0.0646,0.9504,0.0334,0.0604,0.051,0.0549,0.9504,0.0287,0.393,1.2825,33678,445119,529650,18652353
+cnn_direct_vector_regression_on_shared_skeleton,0.0647,0.0596,0.062,0.9484,0.032,0.0557,0.0511,0.0529,0.9484,0.0276,0.4083,0.8067,33557,485225,529771,18612247
