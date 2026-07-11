@@ -1,0 +1,10 @@
+Method,True vectors,Predicted vectors,Vector count error,Engineering score,Line geometry score,Total length score,Junction angle score,Vector count score,True junctions,Predicted junctions
+CNN + Distance-to-stroke,2.9067,2.9433,0.2233,0.4852,0.156,0.8075,0.636,0.9447,0.4,0.3775
+CNN + Multi-channel stack,2.9067,3.0908,0.3142,0.4655,0.1446,0.7917,0.6015,0.9173,0.4,0.4125
+CNN + Local density blur,2.9067,3.1342,0.3292,0.4625,0.1438,0.7817,0.5994,0.9164,0.4,0.3783
+CNN + Zhang-Suen skeleton,2.9067,3.1042,0.3325,0.4612,0.1427,0.7845,0.5961,0.911,0.4,0.4042
+CNN + Close small gaps,2.9067,2.9083,0.3417,0.4599,0.1398,0.776,0.6057,0.9042,0.4,0.3933
+CNN + Neighbour-count context,2.9067,3.2658,0.4275,0.4582,0.1493,0.8082,0.5642,0.8831,0.4,0.4875
+CNN + Threshold binary,2.9067,3.095,0.3817,0.4565,0.1415,0.8002,0.5736,0.8938,0.4,0.4242
+CNN + Dilated stroke,2.9067,2.7033,0.3083,0.4563,0.1334,0.7555,0.6151,0.9142,0.4,0.3617
+CNN + Sobel edge response,2.9067,2.6317,0.4,0.4527,0.1241,0.7732,0.6143,0.8862,0.4,0.3658

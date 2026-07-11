@@ -1,0 +1,9 @@
+Cycle,Training samples,Method,True vectors,Predicted vectors,Vector count error,Engineering score,Line geometry score,Total length score,Junction angle score,Vector count score,True junctions,Predicted junctions
+small,2000,Hough transform baseline,3.0475,3.7525,0.7317,0.795,0.8338,0.8646,0.6383,0.8732,0.4492,1.565
+small,2000,CNN distance-density,3.0475,2.5708,0.5067,0.4288,0.0983,0.6682,0.6612,0.8564,0.4492,0.0958
+medium,20000,Hough transform baseline,3.0475,3.7525,0.7317,0.795,0.8338,0.8646,0.6383,0.8732,0.4492,1.565
+medium,20000,CNN distance-density,3.0475,3.3483,0.3158,0.4813,0.1749,0.8095,0.5943,0.9213,0.4492,0.5625
+larger,100000,Hough transform baseline,3.0475,3.7525,0.7317,0.795,0.8338,0.8646,0.6383,0.8732,0.4492,1.565
+larger,100000,CNN distance-density,3.0475,3.4683,0.4492,0.4698,0.2033,0.7838,0.52,0.9157,0.4492,1.465
+very_large,200000,Hough transform baseline,3.0475,3.7525,0.7317,0.795,0.8338,0.8646,0.6383,0.8732,0.4492,1.565
+very_large,200000,CNN distance-density,3.0475,5.975,2.9475,0.4044,0.2098,0.6371,0.4298,0.7516,0.4492,10.6175

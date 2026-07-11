@@ -1,0 +1,9 @@
+Cycle,Training samples,Method,Precision,Recall,F1-score,Accuracy,IoU
+small,2000,Hough transform baseline,0.8993,0.4573,0.6063,0.9877,0.435
+small,2000,CNN distance-density,0.0467,0.0129,0.0203,0.9741,0.0102
+medium,20000,Hough transform baseline,0.8993,0.4573,0.6063,0.9877,0.435
+medium,20000,CNN distance-density,0.0725,0.0264,0.0388,0.9728,0.0198
+larger,100000,Hough transform baseline,0.8993,0.4573,0.6063,0.9877,0.435
+larger,100000,CNN distance-density,0.0806,0.0431,0.0561,0.97,0.0289
+very_large,200000,Hough transform baseline,0.8993,0.4573,0.6063,0.9877,0.435
+very_large,200000,CNN distance-density,0.0684,0.0648,0.0665,0.9623,0.0344

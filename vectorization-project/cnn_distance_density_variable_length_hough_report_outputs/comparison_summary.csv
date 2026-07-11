@@ -1,0 +1,6 @@
+Method,Training samples,sample,True vectors,Predicted vectors,Vector count error,Engineering score,Line geometry score,Total length score,Junction angle score,Vector count score,True junctions,Predicted junctions,tp,fp,fn,tn,sample_precision,sample_recall,sample_f1,sample_accuracy,sample_iou
+Hough transform baseline,0.0,599.5,3.0475,3.7525,0.7317,0.795,0.8338,0.8646,0.6383,0.8732,0.4492,1.565,155.2517,17.3842,184.2492,16027.115,0.9355,0.5117,0.641,0.9877,0.4948
+"CNN distance-density — Medium (20,000 training samples)",20000.0,599.5,3.0475,3.3483,0.3158,0.4813,0.1749,0.8095,0.5943,0.9213,0.4492,0.5625,8.9767,114.7917,330.5242,15929.7075,0.0622,0.0225,0.0323,0.9728,0.0171
+"CNN distance-density — Larger (100,000 training samples)",100000.0,599.5,3.0475,3.4683,0.4492,0.4698,0.2033,0.7838,0.52,0.9157,0.4492,1.465,14.6258,166.8717,324.875,15877.6275,0.089,0.0429,0.055,0.97,0.03
+"CNN distance-density — Small (2,000 training samples)",2000.0,599.5,3.0475,2.5708,0.5067,0.4288,0.0983,0.6682,0.6612,0.8564,0.4492,0.0958,4.39,89.5967,335.1108,15954.9025,0.0367,0.0102,0.0155,0.9741,0.008
+"CNN distance-density — Very Large (200,000 training samples)",200000.0,599.5,3.0475,5.975,2.9475,0.4044,0.2098,0.6371,0.4298,0.7516,0.4492,10.6175,22.0075,299.9408,317.4933,15744.5583,0.0852,0.0613,0.0618,0.9623,0.0336

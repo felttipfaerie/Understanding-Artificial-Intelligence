@@ -1,0 +1,6 @@
+Method,tp,fp,fn,tn
+"CNN distance-density — Larger (100,000 training samples)",17551,200246,389850,19053153
+"CNN distance-density — Medium (20,000 training samples)",10772,137750,396629,19115649
+"CNN distance-density — Small (2,000 training samples)",5268,107516,402133,19145883
+"CNN distance-density — Very Large (200,000 training samples)",26409,359929,380992,18893470
+Hough transform baseline,186302,20861,221099,19232538

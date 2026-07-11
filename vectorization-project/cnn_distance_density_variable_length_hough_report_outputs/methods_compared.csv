@@ -1,0 +1,6 @@
+Method,Method type,Training samples,Output rule,Hard vector-count maximum
+"CNN distance-density — Small (2,000 training samples)",Machine learning,2000,Autoregressive vectors until learned EOS,None
+"CNN distance-density — Medium (20,000 training samples)",Machine learning,20000,Autoregressive vectors until learned EOS,None
+"CNN distance-density — Larger (100,000 training samples)",Machine learning,100000,Autoregressive vectors until learned EOS,None
+"CNN distance-density — Very Large (200,000 training samples)",Machine learning,200000,Autoregressive vectors until learned EOS,None
+Hough transform baseline,Classical baseline,Not applicable,"All accepted, non-suppressed Hough segments",None

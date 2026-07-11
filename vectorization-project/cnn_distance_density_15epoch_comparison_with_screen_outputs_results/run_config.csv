@@ -1,0 +1,2 @@
+output_folder,train_images,test_images,image_size,max_vectors,batch_size,epochs,learning_rate,confidence_threshold,methods
+cnn_distance_density_15epoch_comparison_with_screen_outputs_results,6000,1200,128,5,128,15,0.0003,0.5,"distance_transform, local_density"

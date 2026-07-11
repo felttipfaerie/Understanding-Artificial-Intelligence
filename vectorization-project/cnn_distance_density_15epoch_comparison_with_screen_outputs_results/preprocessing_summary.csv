@@ -1,0 +1,3 @@
+preprocess_method,display_name,train_shape,test_shape,mean_train_raw_stroke_pixels,mean_train_processed_feature_pixels,mean_test_raw_stroke_pixels,mean_test_processed_feature_pixels
+distance_transform,Distance-to-stroke,"(6000, 128, 128)","(1200, 128, 128)",327.72833333333335,974.3508333333333,319.1875,955.2575
+local_density,Local density blur,"(6000, 128, 128)","(1200, 128, 128)",327.72833333333335,429.3383333333333,319.1875,416.37666666666667

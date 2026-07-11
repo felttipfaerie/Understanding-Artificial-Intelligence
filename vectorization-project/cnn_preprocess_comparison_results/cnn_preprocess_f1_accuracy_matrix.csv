@@ -1,0 +1,9 @@
+preprocess_method,method,tp,fp,fn,tn,mean_precision,mean_recall,mean_f1,mean_accuracy,mean_iou,mean_engineering_score,mean_vector_count_error,mean_pred_vectors,mean_processed_feature_pixels,global_precision,global_recall,global_f1,global_accuracy,global_iou
+close_gaps,cnn_direct_vector_regression__close_gaps,9276,87033,261132,19303359,0.1091,0.0404,0.0557,0.9823,0.0307,0.5133,0.2267,1.8733,225.34,0.0963,0.0343,0.0506,0.9823,0.026
+dilated_stroke,cnn_direct_vector_regression__dilated_stroke,21245,81968,529295,19028292,0.2326,0.044,0.0729,0.9689,0.0397,0.5285,0.1417,2.0717,458.7833,0.2058,0.0386,0.065,0.9689,0.0336
+distance_transform,cnn_direct_vector_regression__distance_transform,34192,71221,768694,18786693,0.3574,0.0474,0.0831,0.9573,0.0447,0.557,0.0825,1.9775,669.0717,0.3244,0.0426,0.0753,0.9573,0.0391
+local_density,cnn_direct_vector_regression__local_density,17929,96330,385817,19160724,0.1757,0.0433,0.0672,0.9755,0.0365,0.5179,0.2867,2.2917,341.37,0.1569,0.0444,0.0692,0.9755,0.0359
+neighbour_context,cnn_direct_vector_regression__neighbour_context,10642,94245,258459,19297454,0.1166,0.0451,0.0618,0.9821,0.0341,0.5297,0.1383,1.9933,224.2508,0.1015,0.0395,0.0569,0.9821,0.0293
+skeleton,cnn_direct_vector_regression__skeleton,4283,93121,108198,19455198,0.0473,0.0412,0.0426,0.9898,0.0238,0.5206,0.17,1.915,93.7342,0.044,0.0381,0.0408,0.9898,0.0208
+sobel_edges,cnn_direct_vector_regression__sobel_edges,13325,83197,369213,19195065,0.1507,0.0393,0.0604,0.977,0.0326,0.5163,0.2733,1.7783,319.9833,0.1381,0.0348,0.0556,0.977,0.0286
+threshold_only,cnn_direct_vector_regression__threshold_only,9322,94554,259779,19297145,0.1005,0.0391,0.0534,0.982,0.029,0.5207,0.1942,2.1108,224.2508,0.0897,0.0346,0.05,0.982,0.0256

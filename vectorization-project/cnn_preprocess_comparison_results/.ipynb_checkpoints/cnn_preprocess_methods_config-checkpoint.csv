@@ -1,0 +1,9 @@
+preprocess_method,display_name,kind,threshold,dilate_radius,closing_radius,density_radius,distance_decay_px,neighbour_blend
+threshold_only,Threshold binary,binary,0.5,,,,,
+dilated_stroke,Dilated stroke,binary,0.5,1.0,,,,
+close_gaps,Close small gaps,binary,0.5,,1.0,,,
+local_density,Local density blur,local_density,0.5,,,2.0,,
+sobel_edges,Sobel edge response,sobel_edges,0.5,,,,,
+distance_transform,Distance-to-stroke,distance_transform,0.5,,,,4.0,
+neighbour_context,Neighbour-count context,neighbour_context,0.5,,,,,0.45
+skeleton,Zhang-Suen skeleton,skeleton,0.5,,,,,

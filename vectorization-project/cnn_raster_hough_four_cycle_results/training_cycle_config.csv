@@ -1,0 +1,5 @@
+Cycle,Training samples
+small,2000
+medium,20000
+larger,100000
+very_large,200000

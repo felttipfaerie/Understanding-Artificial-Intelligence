@@ -1,0 +1,12 @@
+Parameter,Value,Applies to
+Image size,128,"Dataset, CNN and Hough"
+Dataset maximum vectors,5,Existing dataset generation/storage only
+CNN architectural maximum vectors,None,Autoregressive decoding until learned EOS
+Hough maximum returned vectors,None,All accepted Hough segments
+Maximum training drawings,200000,Dataset
+Test drawings,1200,All methods
+Batch size,128,CNN training
+Epochs per cycle,15,CNN training
+Learning rate,0.0003,CNN training
+Minimum output vector length,2.0,CNN/Hough cleanup
+Report output folder,cnn_distance_density_variable_length_hough_report_outputs,This cell only

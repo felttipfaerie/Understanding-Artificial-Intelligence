@@ -1,0 +1,36 @@
+{
+  "output_folder": "cnn_distance_density_four_cycle_hough_results",
+  "dataset_seed": 20260710,
+  "model_seed": 20260710,
+  "training_cycles": {
+    "small": 2000,
+    "medium": 10000,
+    "larger": 30000,
+    "very_large": 60000
+  },
+  "test_images": 1200,
+  "batch_size": 128,
+  "epochs_per_cycle": 15,
+  "learning_rate": 0.0003,
+  "distance_density_config": {
+    "method": "distance_density",
+    "display_name": "Distance-to-stroke + local-density blur",
+    "threshold": 0.5,
+    "distance_decay_px": 4.0,
+    "density_radius": 2,
+    "channels": [
+      "distance_to_stroke",
+      "local_density_blur"
+    ]
+  },
+  "hough_config": {
+    "angle_step_deg": 1,
+    "rho_step_px": 1.0,
+    "line_distance_tol_px": 1.25,
+    "min_support_pixels": 7,
+    "theta_nms_deg": 4,
+    "rho_nms_px": 4,
+    "merge_angle_tol_deg": 5,
+    "merge_endpoint_tol_px": 4
+  }
+}
