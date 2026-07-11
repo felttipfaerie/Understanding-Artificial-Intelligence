@@ -1,0 +1,9 @@
+Cycle,Training samples,Method,True vectors,Predicted vectors,Vector count error,Engineering score,Line geometry score,Total length score,Junction angle score,Vector count score,True junctions,Predicted junctions
+small,1000,Unedited Hough vectors from distance-to-stroke,3.0117,15.5425,12.5308,0.3622,0.6145,0.2502,0.0531,0.2234,0.4392,46.0117
+small,1000,CNN-refined Hough vectors from distance-to-stroke,3.0117,0.0,3.0117,0.179,0.0,0.0,0.7158,0.0,0.4392,0.0
+medium,20000,CNN-refined Hough vectors from distance-to-stroke,3.0117,1.5567,1.5467,0.476,0.3269,0.5325,0.6953,0.4859,0.4392,0.2117
+medium,20000,Unedited Hough vectors from distance-to-stroke,3.0117,15.5425,12.5308,0.3622,0.6145,0.2502,0.0531,0.2234,0.4392,46.0117
+larger,40000,CNN-refined Hough vectors from distance-to-stroke,3.0117,2.8067,2.3217,0.3633,0.1815,0.4412,0.5783,0.4887,0.4392,0.6792
+larger,40000,Unedited Hough vectors from distance-to-stroke,3.0117,15.5425,12.5308,0.3622,0.6145,0.2502,0.0531,0.2234,0.4392,46.0117
+very_large,100000,CNN-refined Hough vectors from distance-to-stroke,3.0117,1.7892,1.4392,0.537,0.4097,0.6482,0.6573,0.5868,0.4392,0.2792
+very_large,100000,Unedited Hough vectors from distance-to-stroke,3.0117,15.5425,12.5308,0.3622,0.6145,0.2502,0.0531,0.2234,0.4392,46.0117

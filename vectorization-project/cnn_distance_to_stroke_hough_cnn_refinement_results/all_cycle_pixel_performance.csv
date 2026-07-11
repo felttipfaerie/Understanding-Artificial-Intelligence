@@ -1,0 +1,9 @@
+Cycle,Training samples,Method,Precision,Recall,F1-score,Accuracy,IoU
+small,1000,Unedited Hough vectors from distance-to-stroke,0.2682,0.5008,0.3494,0.9622,0.2117
+small,1000,CNN-refined Hough vectors from distance-to-stroke,0.0,0.0,0.0,0.9797,0.0
+medium,20000,Unedited Hough vectors from distance-to-stroke,0.2682,0.5008,0.3494,0.9622,0.2117
+medium,20000,CNN-refined Hough vectors from distance-to-stroke,0.5228,0.144,0.2258,0.98,0.1273
+larger,40000,Unedited Hough vectors from distance-to-stroke,0.2682,0.5008,0.3494,0.9622,0.2117
+larger,40000,CNN-refined Hough vectors from distance-to-stroke,0.1452,0.0394,0.062,0.9758,0.032
+very_large,100000,Unedited Hough vectors from distance-to-stroke,0.2682,0.5008,0.3494,0.9622,0.2117
+very_large,100000,CNN-refined Hough vectors from distance-to-stroke,0.5767,0.1863,0.2816,0.9807,0.1639

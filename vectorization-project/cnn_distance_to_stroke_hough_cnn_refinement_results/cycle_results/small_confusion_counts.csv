@@ -1,0 +1,3 @@
+Method,tp,fp,fn,tn,Precision,Recall,F1-score,Accuracy,IoU
+CNN-refined Hough vectors from distance-to-stroke,0,0,398753,19262047,0.0,0.0,0.0,0.9797183736165365,0.0
+Unedited Hough vectors from distance-to-stroke,199712,544842,199041,18717205,0.2682303768430493,0.5008413729802648,0.34935848331256675,0.9621641540527344,0.21165012531859514

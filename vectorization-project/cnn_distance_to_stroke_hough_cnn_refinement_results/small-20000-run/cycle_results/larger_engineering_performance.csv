@@ -1,0 +1,3 @@
+Method,True vectors,Predicted vectors,Vector count error,Engineering score,Line geometry score,Total length score,Junction angle score,Vector count score,True junctions,Predicted junctions
+Unedited Hough vectors from distance-to-stroke,3.0075,15.7692,12.7617,0.366,0.6143,0.249,0.0693,0.225,0.4617,47.2758
+CNN-refined Hough vectors from distance-to-stroke,3.0075,0.0,3.0075,0.1746,0.0,0.0,0.6983,0.0,0.4617,0.0
